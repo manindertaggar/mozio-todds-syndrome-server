@@ -1,0 +1,15 @@
+{
+    "name": "root/todds-syndrome",
+    "authors": [
+        {
+            "name": "Maninder Taggar",
+            "email": "manindersingh030@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Syndrome\\": "src/"
+        }
+    },
+    "require": {}
+}
